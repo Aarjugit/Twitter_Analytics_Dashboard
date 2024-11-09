@@ -5,6 +5,8 @@
 ## Problem Statement:
 
 Effectively monitoring and analyzing public sentiment and performance metrics on Twitter is crucial for businesses and individuals. Key challenges include accurately identifying and categorizing public sentiment, measuring the effectiveness of social media campaigns, and monitoring competitors' social media activities. By addressing these challenges, organizations can gain valuable insights to improve their social media strategy and enhance brand reputation.
+![Twitter Dashboard](https://github.com/user-attachments/assets/f0da6dd5-a347-4ed0-aff4-d1f0b0386746)
+
 ### Steps followed 
 
 - Step 1 : Load data into Power BI Desktop, dataset is Social Media CSV file.
